@@ -1,0 +1,266 @@
+.fruit[cherries="cherries0"]{
+  width: 30px;
+  height: 43px;
+  left: 33%;
+  background: url('../images/cherry2.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 3s linear infinite;
+  animation-play-state: running;
+}
+
+.fruit[cherries="cherries1"]{
+  width: 30px;
+  height: 43px;
+  left: 67%;
+  background: url('../images/cherry2.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 5s linear infinite;
+  animation-play-state: running;
+}
+
+.fruit[cherries="cherries2"]{
+  width: 30px;
+  height: 43px;
+  left: 10%;
+  background: url('../images/cherry2.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 7s linear infinite;
+  animation-play-state: running;
+}
+
+
+/* Strawberries */
+.fruit[strawberry="strawberry0"]{
+  width: 40px;
+  height: 40px;
+  left: 20%;
+  background: url('../images/strawberry.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 7s linear infinite;
+  animation-play-state: running;
+}
+
+.fruit[strawberry="strawberry1"]{
+  width: 40px;
+  height: 40px;
+  left: 45%;
+  background: url('../images/strawberry.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 6s linear infinite;
+  animation-play-state: running;
+}
+
+.fruit[strawberry="strawberry2"]{
+  width: 40px;
+  height: 40px;
+  left: 68%;
+  background: url('../images/strawberry.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 10s linear infinite;
+  animation-play-state: running;
+}
+
+/* oranges styles */
+.fruit[Orange="orange0"]{
+  width: 40px;
+  height: 40px;
+  left: 25%;
+  background: url('../images/orange.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 4s linear infinite;
+  animation-play-state: running;
+}
+.fruit[Orange="orange1"]{
+  width: 40px;
+  height: 40px;
+  left: 70%;
+  background: url('../images/orange.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 8s linear infinite;
+  animation-play-state: running;
+}
+.fruit[Orange="orange2"]{
+  width: 40px;
+  height: 40px;
+  left: 13%;
+  background: url('../images/orange.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 10s linear infinite;
+  animation-play-state: running;
+}
+
+
+/* apples  */
+.fruit[apple="apple0"]{
+  width: 30px;
+  height: 30px;
+  left: 1%;
+  background: url('../images/apple.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 5s linear infinite;
+  animation-play-state: running;
+}
+
+.fruit[apple="apple1"]{
+  width: 30px;
+  height: 30px;
+  left: 63%;
+  background: url('../images/apple.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 5s linear infinite;
+  animation-play-state: running;
+}
+.fruit[apple="apple2"]{
+  width: 30;
+  height: 30;
+  left: 28%;
+  background: url('../images/apple.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 15s linear infinite;
+  animation-play-state: running;
+}
+
+.fruit[apple="apple2"]{
+  width: 30;
+  height: 30;
+  left: 30%;
+  background: url('../images/apple.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 8s linear infinite;
+  animation-play-state: running;
+}
+
+/* pears */
+.fruit[pear="pear0"]{
+  width: 30;
+  height: 30;
+  left: 70%;
+  background: url('../images/pear.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 4s linear infinite;
+  animation-play-state: running;
+}
+.fruit[pear="pear1"]{
+  width: 30;
+  height: 30;
+  left: 36%;
+  background: url('../images/pear.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 11s linear infinite;
+  animation-play-state: running;
+}
+
+.fruit[pear="pear2"]{
+  width: 30;
+  height: 30;
+  left: 5%;
+  background: url('../images/pear.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 6s linear infinite;
+  animation-play-state: running;
+}
+
+/* lemons */
+
+.fruit[lemon="lemon0"]{
+  width: 30;
+  height: 30;
+  left: 9%;
+  background: url('../images/lemon.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 4s linear infinite;
+  animation-play-state: running;
+}
+
+.fruit[lemon="lemon1"]{
+  width: 30;
+  height: 30;
+  left: 41%;
+  background: url('../images/lemon.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 9s linear infinite;
+  animation-play-state: running;
+}
+
+.fruit[lemon="lemon2"]{
+  width: 30;
+  height: 30;
+  left: 80%;
+  background: url('../images/lemon.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 7s linear infinite;
+  animation-play-state: running;
+}
+.fruit[lime="lime0"]{
+  width: 30;
+  height: 30;
+  left: 12%;
+  background: url('../images/lime.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 8s linear infinite;
+  animation-play-state: running;
+}
+
+.fruit[lime="lime1"]{
+  width: 30;
+  height: 30;
+  left: 45%;
+  background: url('../images/lime.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 9s linear infinite;
+  animation-play-state: running;
+}
+
+.fruit[lime="lime2"]{
+  width: 30;
+  height: 30;
+  left: 89%;
+  background: url('../images/lime.png');
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  animation: moveFruit 7s linear infinite;
+  animation-play-state: running;
+}
